@@ -1,4 +1,4 @@
-# MNIST Handwritten Digit Recognizer
+# MNIST Handwritten Digit Recognizer using pure NumPy
 
 This project implements a neural network for recognizing handwritten digits from the MNIST dataset using NumPy. The model is trained on training data and can make predictions on test images.
 
